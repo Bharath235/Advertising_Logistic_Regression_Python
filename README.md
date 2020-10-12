@@ -1,0 +1,2 @@
+# Advertising_Logistic_Regression_Python
+Advertising data logistic regression
